@@ -29,5 +29,6 @@
             "PayPal\\EnhancedDataTypes": "lib/",
             "PayPal\\PayPalAPI": "lib/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
